@@ -32,11 +32,13 @@ menu:
   alternative_select_keys: "123456789"
 
 speller:
-  alphabet: 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ,.'''
+  alphabet: '*-abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ,.'''
   delimiter: ''
-  auto_select: true
+  auto_select: false
+  auto_select_pattern: ^([\*-abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ])+\s$
   algebra:
     - xform /([aeiouUY])G/$1ng/
+    - xform/([aeiouv])-([nkghpbsxtdlmcjyrfwKGHZCR])([aeiouv])/$1$2$3/
 
 translator:
   dictionary: manchu_uju
