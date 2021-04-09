@@ -90,6 +90,15 @@ Other special characters include:
 ## The Galik Alphabet for Sanskrit
 ![ali kali](https://github.com/tyotakuki/ejemedosirearga/blob/main/Screen%20Shot%202021-04-09%20at%202.43.15%20AM.png)
 
+## Examples:
+"atanggi" = `a-tanggi-`
+"ekiyembi" = `e-ki-yembi-`
+"uttu" = `uttu-`
+"dekdebumbi" = `*dekde-bu-mbi-`
+"eldengge" = `eldengge-`
+Dative "de" = `*de-`
+"boo" = `boo`
+"tanggvt" = `*tanggvt*`
 
 ## Appendix: A Description of the Special Cases in the Wanggiyan Sure Table
 
@@ -152,7 +161,3 @@ Other special characters include:
 ### Syllable Seperator
 - The syllable seperator should be used for any combinations of vowels except in "-Vu-, -Vo-, -Vi-, -iui-"
 - "dv" and "tv" has the same appearance.
-
-
-
-
