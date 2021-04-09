@@ -88,7 +88,7 @@ Other special characters include:
 - ZWJ: ZWJ, ZWNJ.
 
 ## The Galik Alphabet for Sanskrit
-![ali kali](https://github.com/tyotakuki/ejemedosirearga/blob/main/Screen%20Shot%202021-04-09%20at%202.43.15%20AM.png)
+![ali kali](https://github.com/tyotakuki/ejemedosirearga/blob/main/galik.png)
 
 ## Examples:
 "atanggi" = `a-tanggi-`
