@@ -2,7 +2,29 @@
 manju hergen-i ejeme dosire arga, RIME based
 Juwan-Juwe Uju-based Input System
 
-## Exceptional Cases from the Twelve Uju
+# Input Method:
+Manchu word should be segmented into syllables (uju):
+- "a uju" is of the form Ca, should use Ca- to input.
+- "at, an, ak, ai uju" has a non-final form and a final form. On a final form, one should append a "*".
+- "t/d" + vowel has an initial form and a non-initial form. On an initial form, one should prepend a "*".
+- Ali Kali is described separately.
+
+Other special characters include:
+- Genitive "i" : iii
+- k',g',h': K, G, H
+- ts': C
+- dz: Z
+- ž: R
+- c': Q
+- j': J
+- +y: Y
+- Quotation marks: LQ, RQ
+- FVS: FVS1, FVS2, FVS3
+- ZWJ: ZWJ, ZWNJ.
+
+![ali kali](https://github.com/tyotakuki/ejemedosirearga/blob/main/Screen%20Shot%202021-04-09%20at%202.43.15%20AM.png)
+
+# Exceptional Cases from the Twelve Uju
 
 ### 1. a-uju
 - "dv" does not have dot, and uses the female form "d".
