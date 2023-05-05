@@ -4,11 +4,11 @@
 schema:
   schema_id: manchu_uju
   name: 满文字头输入法
-  version: "0.1"
+  version: "1.0"
 switches:
   - name: ascii_mode
     reset: 0
-    states: [ 滿阿, 西文 ]
+    states: [ 满头, 西文 ]
 
 
 engine:
